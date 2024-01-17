@@ -1,0 +1,23 @@
+
+
+li{
+    display: block;
+    margin-top: 15px;
+}
+
+li :hover{
+    color: rgb(47, 255, 172);
+}
+.banner {
+    max-width: 100%;
+    height: auto;
+  }
+  
+    
+  
+
+
+
+
+
+
